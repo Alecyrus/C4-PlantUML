@@ -44,9 +44,8 @@ skinparam rectangle<<boundary>> {
 ' ##################################
 
 !definelong LAYOUT_AS_SKETCH
-skinparam backgroundColor #EEEBDC
 skinparam handwritten true
-skinparam defaultFontName Impact
+skinparam defaultFontName Ubuntu
 center footer <font color=red>Warning:</font> Created for discussion, needs to be validated
 !enddefinelong
 
