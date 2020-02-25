@@ -43,8 +43,8 @@ skinparam rectangle<<boundary>> {
 ' Layout
 ' ##################################
 !definelong LAYOUT_WITH_LEGEND
-skinparam defaultFontName Ubuntu
-
+skinparam defaultFontName Helvetica
+!enddefinelong
 
 !definelong LAYOUT_AS_SKETCH
 skinparam backgroundColor #EEEBDC
