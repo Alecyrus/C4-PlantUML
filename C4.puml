@@ -43,13 +43,13 @@ skinparam rectangle<<boundary>> {
 ' Layout
 ' ##################################
 !definelong LAYOUT_WITH_LEGEND
-skinparam defaultFontName Helvetica
+skinparam defaultFontName "Ubuntu"
 !enddefinelong
 
 !definelong LAYOUT_AS_SKETCH
 skinparam backgroundColor #EEEBDC
 skinparam handwritten true
-skinparam defaultFontName Helvetica
+skinparam defaultFontName "Helvetica"
 center footer <font color=red>Warning:</font> Created for discussion, needs to be validated
 !enddefinelong
 
